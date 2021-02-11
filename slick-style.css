@@ -1,23 +1,23 @@
 .padd-left-1{
-	padding-left: 40px;
+	padding-left: 45px;
 }
 
 .padd-left{
 	padding-left: 20px;
 }
 
-.sld{
+ .slider-container{
 	background: linear-gradient(145.02deg, #FFBA00 -2.48%, #FBD56E 145.24%);
     border-radius: 8px;
          padding: 21px 33px 27px 12px;
 
   	
   	    box-shadow: 0px 4px 0px 0 #ffc10700, 0px 4px 7px 0 #ffc107;
-
+margin-bottom: 10px;
 }
 
 .slick-list{
-	    padding: 12px 250px !important;
+	    /*padding: 12px 32px  !important;*/
 }
 
 .slider-header{
@@ -71,7 +71,7 @@ img {
 	color: white;
 	    padding: 7px 25px 7px 25px;
 	    margin-top: 15px;
-    margin-left: 15px;
+    margin-left: 9px;
 }
 
 .hide{
@@ -81,7 +81,7 @@ img {
 @media (max-width: 767px) {
 	#wrapper {
 		width: 100%;
-		    padding-top: 203px;
+		    padding-top: 193px;
 	}
 	.logo {
 		float: none;

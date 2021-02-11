@@ -3,14 +3,15 @@ body{
 	background-color: black;
 	background-image: url('https://d3nepnh0ml2m2t.cloudfront.net/uploads/RJWliSbWx949jgCV87UW/template_images/WoQiUbSTyXl82KCKeBrkWnLy7XtjvW8BAOBPjWWK.jpeg');	
 	background-repeat: no-repeat;
-  	background-size: 110% 200vw;
+  	background-size: 116% 203vw;
   	font-family: 'Poppins', sans-serif;
   	color: white;
-
+  	/*background-size: auto;*/
 }
 
 .navbar{
 	padding-top: 20px;
+	width: 100%;
 }
 
 .nav-toggler-img{
@@ -29,7 +30,8 @@ body{
  }
 
 .header-container{
-	margin: 10vw 0vw 0vw 7vw;
+	padding-top: 50px;
+	padding-left: 45px;
 }
 
 .header{
