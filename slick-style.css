@@ -10,7 +10,7 @@
 	background: linear-gradient(145.02deg, #FFBA00 -2.48%, #FBD56E 145.24%);
 	border-radius: 8px;
 	padding: 44px;
-	box-shadow: 0px 4px 0px 0 #ffc10700, 0px 4px 7px 0 #ffc107;
+	box-shadow: 0px 4px 0px 0 #ffc10700, 0px 3px 9px -2px #FFC107;
 	margin-bottom: 10px;
 }
 
@@ -110,7 +110,6 @@
 		background: linear-gradient(145.02deg, #FFBA00 -2.48%, #FBD56E 145.24%);
 		border-radius: 8px;
 		padding: 23px;
-		box-shadow: 0px 4px 0px 0 #ffc10700, 0px 4px 7px 0 #ffc107;
 		margin-bottom: 10px;
 	}
 
