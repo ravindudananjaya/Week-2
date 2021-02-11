@@ -1,0 +1,45 @@
+body{
+	background-color: black;
+	background-image: url('https://d3nepnh0ml2m2t.cloudfront.net/uploads/RJWliSbWx949jgCV87UW/template_images/WoQiUbSTyXl82KCKeBrkWnLy7XtjvW8BAOBPjWWK.jpeg');	
+	background-repeat: no-repeat;
+  	background-size: 110% 200vw;
+  	font-family: 'Poppins', sans-serif;
+  	color: white;
+
+}
+
+.navbar{
+	padding-top: 20px;
+}
+
+.nav-toggler-img{
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.nav-info-img{
+	width: 2em;
+    height: 2em;
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.5);
+     border-color: transparent;
+ }
+
+.header-container{
+	margin: 10vw 0vw 0vw 7vw;
+}
+
+.header{
+	font-weight: bold;
+	font-size: 8vw;
+	letter-spacing: 1px;
+	padding-left: 1vw;
+	margin-bottom: 0.1rem;
+}
+
+.header-txt{
+	font-size: 3vw;
+}
+
