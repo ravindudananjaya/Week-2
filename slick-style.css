@@ -68,7 +68,7 @@
 	opacity: 0;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 540px) {
 	#wrapper {
 		width: 100%;
 		padding-top: 193px;
@@ -89,6 +89,10 @@
 	.menu-area ul li a {
 		padding: 5px;
 		font-size: 11px;
+	}
+
+	.slick-list{
+		    padding-left: 47px !important;
 	}
 }
 
