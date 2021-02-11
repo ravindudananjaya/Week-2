@@ -9,30 +9,30 @@
 .sld{
 	background: linear-gradient(145.02deg, #FFBA00 -2.48%, #FBD56E 145.24%);
     border-radius: 8px;
-    padding: 15px 0px 13px 10px;
-    margin-right: -58px;
-/*  	box-shadow: 0 4px 8px 0 gold, 0 6px 20px 0 gold;*/
+         padding: 21px 33px 27px 12px;
 
+  	
+  	    box-shadow: 0px 4px 0px 0 #ffc10700, 0px 4px 7px 0 #ffc107;
 
 }
 
-.slider-img{
-	padding-bottom: 110px;
-	padding-top: 200px;
-/*	padding-left: 100px;*/
-
+.slick-list{
+	    padding: 12px 250px !important;
 }
 
 .slider-header{
-	font-size: 26px;
+	font-size: 33px;
+	padding-left: 9px;
+	font-weight: 600;
 }
 
 .slider-txt{
-	font-size: 11px;
+	font-size: 13px;
+	padding-left: 9px;
 }
 
 #wrapper {
-	width: 1170px;
+	/*width: 1170px;*/
 	margin: 0 auto;
 }
 img {
@@ -67,16 +67,21 @@ img {
 	border: 2px solid #FFFFFF;
 	box-sizing: border-box;
 	border-radius: 30px;
-	font-size: 10px;
+	font-size: 20px;
 	color: white;
 	    padding: 7px 25px 7px 25px;
+	    margin-top: 15px;
+    margin-left: 15px;
 }
 
+.hide{
+	opacity: 0;
+}
 
 @media (max-width: 767px) {
 	#wrapper {
 		width: 100%;
-
+		    padding-top: 203px;
 	}
 	.logo {
 		float: none;
