@@ -1,12 +1,9 @@
-.padd-left-1{
-	padding-left: 45px;
-}
 
-.padd-left{
+.slider__box{
 	padding-left: 20px;
 }
 
-.slider-container{
+.slide{
 	background: linear-gradient(145.02deg, #FFBA00 -2.48%, #FBD56E 145.24%);
 	border-radius: 8px;
 	padding: 44px;
@@ -14,12 +11,12 @@
 	margin-bottom: 10px;
 }
 
-.slider-header{
+.slider__header{
 	font-size: 52px;
 	font-weight: 600;
 }
 
-.slider-txt{
+.slider__txt{
 	font-size: 21px;
 }
 
@@ -106,19 +103,19 @@
 		padding-left: 47px !important;
 	}
 
-	.slider-container{
+	.slide{
 		background: linear-gradient(145.02deg, #FFBA00 -2.48%, #FBD56E 145.24%);
 		border-radius: 8px;
 		padding: 23px;
 		margin-bottom: 10px;
 	}
 
-	.slider-header{
+	.slider__header{
 		font-size: 33px;
 		font-weight: 600;
 	}
 
-	.slider-txt{
+	.slider__txt{
 		font-size: 13px;
 	}
 
